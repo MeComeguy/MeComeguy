@@ -25,3 +25,9 @@
 - :nerd_face: Always `learning new things`.
 - :crown: Developer & Owner of [GalaxyHost](galaxyhost.site)
 <br>
+<div style="text-align: center;">
+    <h3>⚔️ The Only War I Support ⚔️</h3>
+    <a href="https://www.codewars.com/users/MeComeguy" target="_blank">
+        <img src="https://www.codewars.com/users/MeComeguy/badges/large" alt="Codewars Badge" style="display: block; margin: 0 auto;" />
+    </a>
+</div>
