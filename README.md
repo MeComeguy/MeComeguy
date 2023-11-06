@@ -7,24 +7,21 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=MeComeguy&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=MeComeguy&label=Profile%20views&color=0047AB&style=plastic?" alt="Comeguy" height=25px, width=160px/> 
 <img src="https://dcbadge.vercel.app/api/shield/1119232751678259200" alt="Badge"/>
 
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://media.discordapp.net/attachments/1119257753987334205/1171084156843864154/about_me.gif?ex=655b641c&is=6548ef1c&hm=608b0ba518a036c86c729401532eca2391a6da37c69d5e7bc94252d7137e4035&=&width=187&height=187" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media.discordapp.net/attachments/1119257753987334205/1171085905260445807/Right_Side.gif?ex=655b65bd&is=6548f0bd&hm=65622fa6b9b4082a71c00a8a26c20e5ff43a9475ad2ea11a80dcb0c9476a7c6a&=&width=375&height=375" width = 250px></picture>
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :trophy: 3x `Local Olympiads` Finalist.
+- :computer: I am a competitive programmer at `Codewars`, `CodeForces`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering` and `Cybersecurity`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :crown: Developer & Owner of [GalaxyHost](galaxyhost.site)
 <br>
