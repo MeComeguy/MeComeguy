@@ -23,7 +23,8 @@
 - :computer: I am a competitive programmer at `Codewars`, `CodeForces`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering` and `Cybersecurity`.
 - :nerd_face: Always `learning new things`.
-- :crown: Developer & Owner of [GalaxyHost](galaxyhost.site)
+- :crown: Member & Owner of [Wajed Team](wajed.network)
+- Past Projects : [GalaxyHost](galaxyhost.site)
 <br>
 <div style="text-align: center;">
     <h3>⚔️ The Only War I Support ⚔️</h3>
