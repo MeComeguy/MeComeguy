@@ -13,9 +13,9 @@
 </p>
 
 	
-## <picture><img src = "https://media.discordapp.net/attachments/1119257753987334205/1171084156843864154/about_me.gif?ex=655b641c&is=6548ef1c&hm=608b0ba518a036c86c729401532eca2391a6da37c69d5e7bc94252d7137e4035&=&width=187&height=187" width = 50px></picture> About me
+## <picture><img src = "https://cdn.discordapp.com/attachments/1119257753987334205/1263866333838184538/Right_Side.gif?ex=669bcabf&is=669a793f&hm=c085c6a16fb4ecbf29f7ba00f467261d10f1fbf54006918282c9b950d1ec6638&" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media.discordapp.net/attachments/1119257753987334205/1171085905260445807/Right_Side.gif?ex=655b65bd&is=6548f0bd&hm=65622fa6b9b4082a71c00a8a26c20e5ff43a9475ad2ea11a80dcb0c9476a7c6a&=&width=375&height=375" width = 250px></picture>
+<picture> <img align="right" src="https://cdn.discordapp.com/attachments/1119257753987334205/1263866333838184538/Right_Side.gif?ex=669bcabf&is=669a793f&hm=c085c6a16fb4ecbf29f7ba00f467261d10f1fbf54006918282c9b950d1ec6638&" width = 250px></picture>
 
 <br><br>
 
