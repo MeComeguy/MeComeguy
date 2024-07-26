@@ -13,9 +13,9 @@
 </p>
 
 	
-## <picture><img src = "https://cdn.discordapp.com/attachments/1119257753987334205/1263866337793544264/about_me.gif?ex=669bcac0&is=669a7940&hm=32d79c842fde40525330841238b88a54c85f97a14f733c1475640debb665c686&" width = 50px></picture> About me
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNyaWlybzJlaGlodmg5eGlkYjkxZHJkcTl1N2c5OHMzaDR0a3I2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://cdn.discordapp.com/attachments/1119257753987334205/1263866333838184538/Right_Side.gif?ex=669bcabf&is=669a793f&hm=c085c6a16fb4ecbf29f7ba00f467261d10f1fbf54006918282c9b950d1ec6638&" width = 250px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZkZXFlYzQ4OW01ZmJlaDR0ajQ3NzcxNDNwd3cyN3oyYXI2M3FlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width = 250px></picture>
 
 <br><br>
 
